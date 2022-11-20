@@ -6,7 +6,7 @@
 
 ---
 
-### ![👥 Wanted 클론코딩](https://github.com/Qyupang/ASAC)
+### [👥 Wanted 클론코딩](https://github.com/Qyupang/ASAC)
 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Qyupang&repo=ASAC&cache_seconds=86400&theme=merko">
 
