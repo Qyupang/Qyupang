@@ -10,8 +10,12 @@
 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Qyupang&repo=ASAC&cache_seconds=86400&theme=merko">
 
-- 개발 기간: 2022.10.4 ~
+- 개발 기간: 2022.10.4 ~ 2022.11.27
 - 사용 언어 및 기술: React, Redux
+
+### [ <img src="https://abs.twimg.com/hashflags/Bitcoin_evergreen/Bitcoin_evergreen.png" width="6%" height="6%">How Many ₿ Left](https://github.com/Qyupang/howManyBTCLeft)
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Qyupang&repo=howManyBTCLeft&cache_seconds=86400&theme=merko">
 
 ## 📈 Stats
 
