@@ -15,13 +15,13 @@
 
 ### [ <img src="https://abs.twimg.com/hashflags/Bitcoin_evergreen/Bitcoin_evergreen.png" width="6%" height="6%">How Many ₿ Left](https://github.com/Qyupang/howManyBTCLeft)
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Qyupang&repo=howManyBTCLeft&cache_seconds=86400&theme=merko">
+  <img src="https://github-readme-stats-qyupang.vercel.app/api/pin/?username=Qyupang&repo=howManyBTCLeft&cache_seconds=86400&theme=merko">
 
 ## 📈 Stats
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qyupang&show_icons=true&theme=merko)](https://github.com/Qyupang/github-readme-stats)
+[![Anurag's GitHub stats](https:/github-readme-stats-qyupang.vercel.app/api?username=Qyupang&show_icons=true&theme=merko)](https://github.com/Qyupang/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qyupang&theme=merko" />
 
