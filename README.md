@@ -8,7 +8,7 @@
 
 ### [👥 Wanted 클론코딩](https://github.com/Qyupang/ASAC)
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Qyupang&repo=ASAC&cache_seconds=86400&theme=merko">
+  <img src="https://github-readme-stats-nla8.vercel.app/api/pin/?username=Qyupang&repo=ASAC&cache_seconds=86400&theme=merko">
 
 - 개발 기간: 2022.10.4 ~ 2022.11.27
 - 사용 언어 및 기술: React, Redux
