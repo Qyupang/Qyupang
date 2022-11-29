@@ -21,7 +21,7 @@
 
 ---
 
-[![Anurag's GitHub stats](https:/github-readme-stats-qyupang.vercel.app/api?username=Qyupang&show_icons=true&theme=merko)](https://github.com/Qyupang/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-qyupang.vercel.app/api?username=Qyupang&show_icons=true&theme=merko)](https://github.com/Qyupang/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Qyupang&theme=merko" />
 
